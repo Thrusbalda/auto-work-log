@@ -1,0 +1,7 @@
+{
+  "name": "AutoWorkLog",
+  "description": "Location-based automatic work hour tracker with AI-powered monthly insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
